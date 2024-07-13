@@ -10,3 +10,4 @@ The design of the circuit is elegant, so the rounds of encryption can be increas
 
 ### Expanation of Circuit :
 For explanation, please refer to Explanation.md
+The design circuit is in the file named 'Proteus File'.
