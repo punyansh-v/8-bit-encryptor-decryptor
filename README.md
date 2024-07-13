@@ -1,4 +1,4 @@
-# 8-bit Enxryptor Decryptor
+# 8-bit Encryptor Decryptor
 ## Digital electronics design project
 ### Introduction
 My name is Punyansh . I'm an electronics engineering student at IIT BHU Varanasi .
